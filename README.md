@@ -5,7 +5,7 @@ The dataset contains cases from a study that was conducted between 1958 and 1970
 
 | Data Source | Language | Libraries used | ipython notebook | .pdf report |
 |-------------|----------|----------------|------------------|-------------|
-| [Kaggle](https://www.kaggle.com/gilsousa/habermans-survival-data-set) | Python | pandas, matplotlib, seaborn | [Haberman.ipynb](https://github.com/rdrsadhu/habermans-cancer-survival-dataset/blob/master/Haberman.ipynb) | [Haberman.pdf](https://github.com/rdrsadhu/habermans-cancer-survival-dataset/blob/master/Haberman.pdf) |
+| [Kaggle](https://www.kaggle.com/gilsousa/habermans-survival-data-set) | Python | pandas, matplotlib, seaborn | [Haberman.ipynb](https://github.com/rudra-24/habermans-cancer-survival-dataset/blob/master/Haberman.ipynb) | [Haberman.pdf](https://github.com/rudra-24/habermans-cancer-survival-dataset/blob/master/Haberman.pdf) |
 
 
 ###### Result
